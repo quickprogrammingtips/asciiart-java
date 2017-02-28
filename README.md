@@ -13,3 +13,21 @@ artGen.printTextArt("Hello", ASCIIArtGenerator.ART_SIZE_MEDIUM);
 ASCIIArtGenerator artGen = new ASCIIArtGenerator();
 artGen.printTextArt("Love is life!", ASCIIArtGenerator.ART_SIZE_SMALL,ASCIIArtFont.ART_FONT_MONO,"@");
 ```
+
+## Sample Ouput
+
+```
+***     ***              ***   ***             
+***     ***              ***   ***             
+***     ***              ***   ***             
+***     ***     *****    ***   ***     *****   
+***     ***    *******   ***   ***    *******  
+***********   ****  ***  ***   ***   **** ****
+***********   ***   ***  ***   ***   ***   ***
+***     ***   *********  ***   ***   ***   ***
+***     ***   *********  ***   ***   ***   ***
+***     ***   ***        ***   ***   ***   ***
+***     ***   ****       ***   ***   **** ****
+***     ***    ********  ***   ***    *******  
+***     ***     *******  ***   ***     *****   
+```
